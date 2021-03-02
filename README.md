@@ -1,2 +1,2 @@
 # Git_Study
-Study_Git
+Study Git with khuhub and sourcetree
